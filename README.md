@@ -8,7 +8,9 @@
   <p>
     <a href="https://www.linkedin.com/in/omer-faruk-uludogan-1837931b9/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt "omer-faruk-uludogan" height="30" width="30"/></a>&nbsp;
     <br>
+    <br>
     <a href="https://www.instagram.com/deads_fire/?igshid=1ihnjkc6f84ju" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="deads_fire" height="30" width="30" /></a>&nbsp;
+    <br>
     <br>
     <a href="https://twitter.com/Deadsfire61?s=08" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Deadsfire61" height="30" width="30" /></a>&nbsp;
   </p>
