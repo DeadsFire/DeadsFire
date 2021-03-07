@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeadsFire&show_icons=true)
-
+<h3 align="center">Hi 👋, I'm Ömer Faruk Uludoğan</h3>
+<p align="center">
+<img width="75%" src="https://github-readme-stats.vercel.app/api?username=DeadsFire&show_icons=true&theme=blue-green")> </img>
+</p>
 
 <!--
 **DeadsFire/DeadsFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
