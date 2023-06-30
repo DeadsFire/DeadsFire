@@ -6,7 +6,7 @@
 <h4 align="left">🔭 I’m currently working on 'frontend'. <h4> 
   <h4 align="left">📫 Connect with me:</h4>
   <p>
-    <a href="https://www.linkedin.com/in/farukuludogan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt "omer-faruk-uludogan" height="30" width="30"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/farukuludogan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt "omer-faruk-uludogan" height="30" width="30"/></a>&nbsp;
     <br>
     <br>
     <a href="https://www.instagram.com/deads_fire/?igshid=1ihnjkc6f84ju" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="deads_fire" height="30" width="30" /></a>&nbsp;
