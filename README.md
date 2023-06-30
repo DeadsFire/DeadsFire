@@ -6,13 +6,13 @@
 <h4 align="left">🔭 I’m currently working on 'frontend'. <h4> 
   <h4 align="left">📫 Connect with me:</h4>
   <p>
-    <a href="https://www.linkedin.com/in/farukuludogan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt "Ömer Faruk Uludoğan" height="30" width="30"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/farukuludogan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="ÖmerFarukUludoğan" height="30" width="30"/></a>&nbsp;
     <br>
     <br>
     <a href="https://www.instagram.com/faruk.uludgn/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="faruk.uludgn" height="30" width="30" /></a>&nbsp;
     <br>
     <br>
-    <a href="linkLİNKlink" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt=":::::::::::::::::" height="30" width="30" /></a>&nbsp;
+    <a href="COMİNGSOON" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt=":::::::::::::::::" height="30" width="30" /></a>&nbsp;
   </p>
 <!--
 **DeadsFire/DeadsFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
