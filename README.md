@@ -3,7 +3,7 @@
 <img width="75%" src="https://github-readme-stats.vercel.app/api?username=DeadsFire&show_icons=true&theme=blue-green")> </img>
 </p>
 
-<h4 align="left">🔭 I’m currently working on 'frontend'. <h4> 
+<h4 align="left">🔭 I’m currently working on 'backend'. <h4> 
   <h4 align="left">📫 Connect with me:</h4>
   <p>
     <a href="https://www.linkedin.com/in/farukuludogan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt "omer-faruk-uludogan" height="30" width="30"/></a>&nbsp;
